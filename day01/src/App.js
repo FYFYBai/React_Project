@@ -7,5 +7,6 @@ function App() {
     </div>
   );
 }
-
+//JavaScript code, but it is written in JSX, which is a syntax extension for JavaScript that looks similar to HTML.
+//enables dynamic rendering of UI components in a React application.
 export default App;
