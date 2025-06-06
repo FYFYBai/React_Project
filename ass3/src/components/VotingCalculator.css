@@ -1,0 +1,40 @@
+.voting-container {
+  margin-top: 30px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.voting-buttons {
+  margin-bottom: 20px;
+}
+
+.voting-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.voting-buttons button:hover {
+  background-color: #45a049;
+}
+
+.voting-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 300px;
+}
+
+.voting-table th,
+.voting-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+.voting-table th {
+  background-color: #f2f2f2;
+}
